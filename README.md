@@ -30,11 +30,3 @@ Python Client.py
 3. Now Enter a nickname and start your chatting. 
 
 
-## v1.2 Updates
-- The version 1.2 supports the Admin Controls. The admin has certain controls over the chat room.
-- The enhanced features include
-  - <b>Kick Feature</b> : Admin can kick anyone from the Chat Room.
-  - <b>Ban Feature</b> : Admin can ban certain members from re-joining the Chat Room. These names are added in a List.
-- Minor Bug Fixes.
-
-<hr>
