@@ -1,8 +1,4 @@
-# Chat-On 🐍 : A Python-Based Chat Room
-![](https://img.shields.io/apm/l/vim-mode?style=plastic)
-![](https://img.shields.io/pypi/pyversions/Django?style=plastic)
-![](https://img.shields.io/github/last-commit/IamLucif3r/Chat-On)
-![](https://img.shields.io/github/commit-activity/w/IamLucif3r/Chat-On?style=plastic)
+
 
 
 This is an advanced Python-based Secure Chat room. The project is entirely based on the Socket Progamming; done using Python. A server is set to the listening mode, with a specific IP Address and Port number (that can be edited in the script) and clients are made to connect to the server, after which they are promopted to enter a nickname. The messages are then broadcasted to all the clients present. 
@@ -51,11 +47,3 @@ This is a demo video of the Working of this project.
 ![](https://github.com/IamLucif3r/Chat-On/blob/main/assets/2021-05-22-15-10-08.gif)
 
 <hr>
-
-## Contribution
-👉 You're welcome to contribute in this project. Make a new branch, Commit your changes and send me a Pull Request. I'll merge it in the main branch ✌
-
-[EduardoJTR](https://github.com/EduardoJTR) : Added Menu System
-
-## Contact
-📬 Contact with me via email: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
